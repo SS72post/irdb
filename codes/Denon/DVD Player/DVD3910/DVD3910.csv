@@ -1,0 +1,54 @@
+functionname	protocol	device	subdevice	function
+power off	denon	6	-1	192
+power on	denon	8	-1	177
+hdmi select	denon	6	-1	213
+hdmi format	denon	6	-1	208
+ntsc/pal	denon	8	-1	183
+open close	denon	8	-1	144
+1	denon	8	-1	130
+2	denon	8	-1	131
+3	denon	8	-1	132
+4	denon	8	-1	133
+5	denon	8	-1	134
+6	denon	8	-1	135
+7	denon	8	-1	136
+8	denon	8	-1	137
+9	denon	8	-1	138
+0	denon	8	-1	129
+10	denon	8	-1	140
+search mode	denon	4	-1	158
+sacd setup	denon	6	-1	205
+program direct	denon	8	-1	162
+clear	denon	8	-1	163
+call	denon	8	-1	190
+angle	denon	8	-1	143
+subtitles	denon	8	-1	141
+audio	denon	8	-1	142
+top menu	denon	8	-1	189
+display	denon	8	-1	167
+menu	denon	8	-1	145
+return	denon	8	-1	146
+up	denon	8	-1	172
+down	denon	8	-1	173
+left	denon	8	-1	175
+right	denon	8	-1	174
+enter	denon	8	-1	187
+stop	denon	8	-1	161
+pause	denon	8	-1	157
+play	denon	8	-1	160
+track back	denon	8	-1	153
+track forward	denon	8	-1	152
+search back	denon	8	-1	155
+search forward	denon	8	-1	154
+repeat	denon	8	-1	148
+AB	denon	8	-1	186
+page -	denon	6	-1	253
+page +	denon	6	-1	254
+random	denon	8	-1	170
+marker	denon	8	-1	185
+zoom	denon	4	-1	159
+dimmer	denon	4	-1	161
+setup	denon	8	-1	188
+picture adjust	denon	4	-1	160
+direct memory	denon	4	-1	162
+direct select	denon	6	-1	212
