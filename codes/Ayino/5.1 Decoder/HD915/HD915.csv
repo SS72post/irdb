@@ -1,0 +1,33 @@
+functionname	protocol	device	subdevice	function
+power	nec	0	-1	69
+settings	nec	0	-1	70
+bluetooth	nec	0	-1	88
+usb	nec	0	-1	74
+coax	nec	0	-1	28
+opt	nec	0	-1	90
+arc	nec	0	-1	8
+play/pause	nec	0	-1	21
+vol up	nec	0	-1	64
+vol down	nec	0	-1	25
+channel up	nec	0	-1	7
+channel down	nec	0	-1	9
+up arrow	nec	0	-1	241
+down arrow	nec	0	-1	244
+right arrow	nec	0	-1	243
+left arrow	nec	0	-1	242
+ok	nec	0	-1	240
+display	nec	0	-1	73
+pc-usb	nec	0	-1	66
+learn	nec	0	-1	245
+hdmi 1	nec	0	-1	12
+hdmi 2	nec	0	-1	24
+hdmi 3	nec	0	-1	94
+aux	nec	0	-1	82
+2.1 5.1	nec	0	-1	13
+?	nec	0	-1	72
+surround +	nec	0	-1	97
+surround -	nec	0	-1	98
+front +	nec	0	-1	99
+front-	nec	0	-1	100
+1 back	nec	0	-1	22
+	nec	0	-1	67
