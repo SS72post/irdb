@@ -1,0 +1,48 @@
+functionname	protocol	device	subdevice	function
+power	panasonic	144	0	61
+tv power	panasonic	128	0	61
+tv channel up	panasonic	128	0	52
+tv volume up	panasonic	128	0	32
+tv a/v	panasonic	128	0	5
+tv channel down	panasonic	128	0	53
+tv volume down	panasonic	128	0	33
+1	panasonic	144	0	16
+2	panasonic	144	0	17
+3	panasonic	144	0	18
+4	panasonic	144	0	19
+5	panasonic	144	0	20
+6	panasonic	144	0	21
+7	panasonic	144	0	22
+8	panasonic	144	0	23
+9	panasonic	144	0	24
+0	panasonic	144	0	25
+channel up	panasonic	144	0	52
+channel down	panasonic	144	0	53
+ext link	panasonic	144	0	54
+input sel	panasonic	144	0	192
+-/--	panasonic	144	0	59
+reset	panasonic	144	5	91
+video plus	panasonic	144	1	93
+audio	panasonic	144	0	51
+status	panasonic	144	1	95
+reset cancel	panasonic	144	0	84
+prog/check	panasonic	144	1	1
+prog play	panasonic	144	5	58
+i-timer	panasonic	144	5	63
+menu	panasonic	144	1	86
+exit	panasonic	144	1	102
+up / play	panasonic	144	0	10
+rewind	panasonic	144	0	2
+enter	panasonic	144	1	88
+fast forward	panasonic	144	0	3
+stop	panasonic	144	0	0
+jet rewind	panasonic	144	5	47
+pause slow	panasonic	144	0	6
+index back	panasonic	144	0	73
+index forward	panasonic	144	0	74
+rec mode	panasonic	144	1	10
+off timer	panasonic	144	1	8
+timer	panasonic	144	0	180
+record	panasonic	144	0	8
+A	panasonic	144	1	145
+B	panasonic	144	1	147
