@@ -1,0 +1,41 @@
+functionname	protocol	device	subdevice	function
+power	nec	16	237	31
+tv sys	nec	16	237	93
+setup	nec	16	237	95
+eject	nec	16	237	28
+info	nec	16	237	80
+1	nec	16	237	92
+2	nec	16	237	30
+3	nec	16	237	94
+4	nec	16	237	88
+5	nec	16	237	26
+6	nec	16	237	91
+7	nec	16	237	27
+8	nec	16	237	89
+9	nec	16	237	90
+0	nec	16	237	24
+A-B	nec	16	237	3
+1All	nec	16	237	2
+goto	nec	16	237	67
+program	nec	16	237	29
+clear	nec	16	237	25
+slow reverse	nec	16	237	72
+up	nec	16	237	74
+left	nec	16	237	11
+select / play	nec	16	237	73
+right	nec	16	237	8
+down	nec	16	237	75
+prev	nec	16	237	7
+stop	nec	16	237	9
+f fwd	nec	16	237	5
+next	nec	16	237	69
+pbc	nec	16	237	64
+menu	nec	16	237	65
+title	nec	16	237	66
+subtitile	nec	16	237	68
+angle	nec	16	237	70
+audio	nec	16	237	6
+zoom	nec	16	237	19
+volume +	nec	16	237	0
+volume -	nec	16	237	4
+mute	nec	16	237	1
