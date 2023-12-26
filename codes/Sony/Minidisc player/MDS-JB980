@@ -1,0 +1,44 @@
+functionname	protocol	device	subdevice	function
+1	Sony12	15	-1	0
+2	Sony12	15	-1	1
+3	Sony12	15	-1	2
+4	Sony12	15	-1	3
+5	Sony12	15	-1	4
+6	Sony12	15	-1	5
+7	Sony12	15	-1	6
+8	Sony12	15	-1	7
+9	Sony12	15	-1	8
+10/0	Sony12	15	-1	9
+>10	Sony12	15	-1	10
+Clear	Sony12	15	-1	15
+Level up	Sony12	15	-1	16
+Level down	Sony12	15	-1	17
+Power	Sony12	15	-1	21
+Eject	Sony12	15	-1	22
+Play Mode	Sony12	15	-1	23
+Display	Sony12	15	-1	24
+Scroll	Sony12	15	-1	25
+Skip back	Sony12	15	-1	32
+Skip forward	Sony12	15	-1	33
+Repeat	Sony12	15	-1	38
+A-B	Sony12	15	-1	39
+CD syncro Stop	Sony12	15	-1	40
+Stop	Sony12	15	-1	40
+Pause	Sony12	15	-1	41
+Play	Sony12	15	-1	42
+rewind	Sony12	15	-1	43
+Fastforward	Sony12	15	-1	44
+Record	Sony12	15	-1	45
+T Rec	Sony12	15	-1	48
+CD syncro start	Sony12	17	-1	50
+CD sencro standby	Sony12	17	-1	57
+CD syncro standby	Sony12	15	-1	62
+music sync	Sony12	15	-1	63
+Rec Mode	Sony12	15	-1	96
+Name Edit Select	Sony12	15	-1	97
+Input	Sony12	15	-1	102
+Fader	Sony12	15	-1	105
+Menu no	Sony12	15	-1	106
+Yes	Sony12	15	-1	107
+group skip	Sony12	15	-1	114
+Group on off	Sony12	15	-1	115
